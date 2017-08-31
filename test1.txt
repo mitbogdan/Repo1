@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 286E-4B1B
+
+ Directory of C:\Users\bogda\Desktop\e commerce
+
+31/08/2017  13:48    <DIR>          .
+31/08/2017  13:48    <DIR>          ..
+31/08/2017  13:48                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  95,728,738,304 bytes free
